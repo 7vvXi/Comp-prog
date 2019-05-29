@@ -21,6 +21,9 @@
 ### [3問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0022&lang=jp) （２０点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0022&lang=jp
 
+#### [解答例](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1-3.py)
+>https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1-3.py
+
 ### [4問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0004&lang=jp) （２０点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0004&lang=jp
 
