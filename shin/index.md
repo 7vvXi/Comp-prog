@@ -12,13 +12,13 @@
 ### [2問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0005&lang=jp) （１０点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0005&lang=jp
 
-### [3問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0022&lang=jp) （１０点）
+### [3問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0022&lang=jp) （２０点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0022&lang=jp
 
 ### [4問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0004&lang=jp) （２０点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0004&lang=jp
 
-### [5問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0100&lang=jp) （２０点）
+### [5問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0100&lang=jp) （３０点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0100&lang=jp
 
 ### [6問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0652) （３０点）
