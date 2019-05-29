@@ -9,8 +9,14 @@
 ### [1問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0011&lang=jp) （１０点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0011&lang=jp
 
+[解答例](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1-1.py)
+>https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1-1.py
+
 ### [2問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0005&lang=jp) （１０点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0005&lang=jp
+
+[解答例](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1-2.py)
+>https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1-2.py
 
 ### [3問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0022&lang=jp) （２０点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0022&lang=jp
