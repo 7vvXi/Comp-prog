@@ -1,6 +1,6 @@
 # ～競プロ体験1日目～
 
-### [1問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0011&lang=jp) （１０点）
+## [1問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0011&lang=jp) （１０点）
 #### [解答例](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1/1-1.py)
 ```
 w = int(input())
@@ -21,7 +21,7 @@ for i in range(w):
     print(map[i])
  ```
 
-### [2問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0005&lang=jp) （１０点）
+## [2問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0005&lang=jp) （１０点）
 #### [解答例](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1/1-2.py)
 ```
 import math
@@ -35,7 +35,7 @@ for i in range(50):
 		break
 ```
 
-### [3問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0652) （１０点）
+## [3問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0652) （１０点）
 #### [解答例](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1/1-3.py)
 ```
 data = input().split()
@@ -56,7 +56,7 @@ while 1:
 print(count)
 ```
 
-### [4問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0022&lang=jp) （１５点）
+## [4問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0022&lang=jp) （１５点）
 #### [解答例](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1/1-4.py)
 ```
 while 1:
@@ -76,7 +76,7 @@ while 1:
 	print(max)
 ```
 
-### [5問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0100&lang=jp) （１５点）
+## [5問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0100&lang=jp) （１５点）
 #### [解答例](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1/1-5.py)
 ```
 while 1:
@@ -103,7 +103,7 @@ while 1:
 		print('NA')
 ```
 
-### [6問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0004&lang=jp) （２０点）
+## [6問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0004&lang=jp) （２０点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0004&lang=jp
 
 
