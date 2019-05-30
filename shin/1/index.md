@@ -26,4 +26,4 @@
 
 ※コンパイルしてから提出してください。一回WAするたびに-1点します。
 
-[解答例→](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1/answer.md)
+[解答例→](https://7vxxi.github.io/my-portfolio/shin/1/answer.md)
