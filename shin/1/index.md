@@ -25,3 +25,5 @@
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0652
 
 ※コンパイルしてから提出してください。一回WAするたびに-1点します。
+
+[解答例→](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1/answer.md)
