@@ -22,7 +22,7 @@ for i in range(w):
  ```
 
 ### [2問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0005&lang=jp) （１０点）
-#### [解答例](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1-2.py)
+#### [解答例](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1/1-2.py)
 ```
 import math
 for i in range(50):
@@ -36,7 +36,7 @@ for i in range(50):
 ```
 
 ### [3問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0022&lang=jp) （２０点）
-#### [解答例](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1-3.py)
+#### [解答例](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1/1-3.py)
 ```
 while 1:
 	n = int(input())
@@ -62,7 +62,7 @@ while 1:
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0100&lang=jp
 
 ### [6問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0652) （３０点）
-#### [解答例](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1-6.py)
+#### [解答例](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1/1-6.py)
 ```
 data = input().split()
 a = int(data[0])
@@ -82,4 +82,4 @@ while 1:
 print(count)
 ```
 
-※コンパイルしてから提出してください。一回WAするたびに-1点します。
+[←back](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1/index.md)
