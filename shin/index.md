@@ -33,7 +33,7 @@
 ### [6問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0652) （３０点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0652
 
-[解答例](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1-6.py)
+#### [解答例](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1-6.py)
 >https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1-3.py
 
 ※コンパイルしてから提出してください。一回WAするたびに-1点します。
