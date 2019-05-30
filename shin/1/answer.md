@@ -104,6 +104,7 @@ while 1:
 ```
 
 ## [6問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0004&lang=jp) （２０点）
+#### [解答例](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1/1-.py)
 ```
 while 1:
 	try:
