@@ -18,11 +18,12 @@
 ### [4問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0022&lang=jp) （１５点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0022&lang=jp
 
-### [5問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0004&lang=jp) （２０点）
+### [5問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0100&lang=jp) （１５点）
+>http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0100&lang=jp
+
+### [6問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0004&lang=jp) （２０点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0004&lang=jp
 
-### [6問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0100&lang=jp) （２０点）
->http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0100&lang=jp
 
 
 ※コンパイルしてから提出してください。一回WAするたびに-1点します。
