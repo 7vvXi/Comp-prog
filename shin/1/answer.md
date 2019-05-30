@@ -82,4 +82,4 @@ while 1:
 print(count)
 ```
 
-[←back](https://raw.githubusercontent.com/7vXXi/my-portfolio/master/shin/1/index.md)
+[←back](https://7vxxi.github.io/my-portfolio/shin/1/)
