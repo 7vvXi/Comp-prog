@@ -76,13 +76,11 @@ while 1:
 	print(max)
 ```
 
-### [5問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0100&lang=jp) （２０点）
+### [5問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0100&lang=jp) （１５点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0100&lang=jp
 
 ### [6問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0004&lang=jp) （２０点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0004&lang=jp
-
-
 
 
 [←back](https://7vxxi.github.io/my-portfolio/shin/1/)
