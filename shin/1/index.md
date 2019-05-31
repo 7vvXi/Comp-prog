@@ -30,4 +30,4 @@
 
 [解答例→](https://7vxxi.github.io/my-portfolio/shin/1/answer)
 
-[←トップページ](https://7vxxi.github.io/my-portfolio/shin/1/)
+[←トップページ](https://7vxxi.github.io/my-portfolio/shin/)
