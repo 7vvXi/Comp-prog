@@ -11,4 +11,7 @@
 >https://7vxxi.github.io/my-portfolio/shin/1/answer
 
 ## 第２回
-Comming soon...
+- 第２回の問題は[こちらから](https://7vxxi.github.io/my-portfolio/shin/2/)
+>https://7vxxi.github.io/my-portfolio/shin/2/
+- 第２回の解答例は[こちらから](https://7vxxi.github.io/my-portfolio/shin/2/answer)
+>https://7vxxi.github.io/my-portfolio/shin/2/answer
