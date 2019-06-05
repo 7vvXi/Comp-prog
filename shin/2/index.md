@@ -20,7 +20,8 @@
 ### [6問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0042) （２０点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0042
 
-
+### [EX](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_E&lang=jp)
+>http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_E&lang=jp
 
 ※コンパイルしてから提出してください。一回WAするたびに-1点します。
 
