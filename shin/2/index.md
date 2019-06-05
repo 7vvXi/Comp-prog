@@ -21,6 +21,7 @@
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0042
 
 ### [EX](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_E&lang=jp)
+※どこかの試験で出た問題の類題です。
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_E&lang=jp
 
 ※コンパイルしてから提出してください。一回WAするたびに-1点します。
