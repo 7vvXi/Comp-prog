@@ -17,7 +17,7 @@
 ### [5問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0086) （２５点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0086
 
-### [6問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0042) （２０点）
+### [6問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0042) （３０点）
 >http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0042
 
 ### [EX](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_E&lang=jp)
