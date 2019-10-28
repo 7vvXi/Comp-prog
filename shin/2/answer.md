@@ -152,4 +152,4 @@ print(dist[len(str1)][len(str2)])
 ※どこかの試験で出た類題です。
 
 
-[←戻る](https://7vxxi.github.io/Comp-prog/shin/)
+[←戻る](https://7vvxi.github.io/Comp-prog/shin/)
