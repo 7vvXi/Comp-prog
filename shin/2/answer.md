@@ -1,7 +1,7 @@
 # ～競プロ体験２日目～
 
 ## [1問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0009&lang=jp) （１０点）
-#### [解答例](https://raw.githubusercontent.com/7vvXi/my-portfolio/master/shin/2/2-1.py)
+#### [解答例](https://raw.githubusercontent.com/7vvXi/Comp-prog/master/shin/2/2-1.py)
 ```
 data = [1] * 1000000
 i = 3
@@ -26,7 +26,7 @@ while 1:
  ```
 
 ## [2問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0087) （１０点）
-#### [解答例](https://raw.githubusercontent.com/7vvXi/my-portfolio/master/shin/2/2-2.py)
+#### [解答例](https://raw.githubusercontent.com/7vvXi/Comp-prog/master/shin/2/2-2.py)
 ```
 while 1:
 	try:
@@ -53,7 +53,7 @@ while 1:
 ```
 
 ## [３問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0017&lang=jp) （１５点）
-#### [解答例](https://raw.githubusercontent.com/7vvXi/my-portfolio/master/shin/2/2-3.py)
+#### [解答例](https://raw.githubusercontent.com/7vvXi/Comp-prog/master/shin/2/2-3.py)
 ```
 while 1:
   try:
@@ -87,7 +87,7 @@ while 1:
 ```
 
 ## [４問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=3001) （２０点）
-#### [解答例](https://raw.githubusercontent.com/7vvXi/my-portfolio/master/shin/2/2-4.py)
+#### [解答例](https://raw.githubusercontent.com/7vvXi/Comp-prog/master/shin/2/2-4.py)
 ```
 n = int(input())
 
@@ -114,13 +114,13 @@ for i in range(n):
 ```
 
 ## [５問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0086) （２５点）
-#### [解答例](https://raw.githubusercontent.com/7vvXi/my-portfolio/master/shin/2/2-5.py)
+#### [解答例](https://raw.githubusercontent.com/7vvXi/Comp-prog/master/shin/2/2-5.py)
 ```
 Wait a minute...
 ```
 
 ## [EX](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_E&lang=jp) 
-#### [解答例](https://raw.githubusercontent.com/7vvXi/my-portfolio/master/shin/2/ex.py)
+#### [解答例](https://raw.githubusercontent.com/7vvXi/Comp-prog/master/shin/2/ex.py)
 ```
 str1 = input()
 str2 = input()
@@ -152,4 +152,4 @@ print(dist[len(str1)][len(str2)])
 ※どこかの試験で出た類題です。
 
 
-[←戻る](https://7vxxi.github.io/my-portfolio/shin/)
+[←戻る](https://7vxxi.github.io/Comp-prog/shin/)
