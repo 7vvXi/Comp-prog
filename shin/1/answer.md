@@ -1,7 +1,7 @@
 # ～競プロ体験1日目～
 
 ## [1問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0011&lang=jp) （１０点）
-#### [解答例](https://raw.githubusercontent.com/7vvXi/my-portfolio/master/shin/1/1-1.py)
+#### [解答例](https://raw.githubusercontent.com/7vvXi/Comp-prog/master/shin/1/1-1.py)
 ```
 w = int(input())
 n = int(input())
@@ -22,7 +22,7 @@ for i in range(w):
  ```
 
 ## [2問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0005&lang=jp) （１０点）
-#### [解答例](https://raw.githubusercontent.com/7vvXi/my-portfolio/master/shin/1/1-2.py)
+#### [解答例](https://raw.githubusercontent.com/7vvXi/Comp-prog/master/shin/1/1-2.py)
 ```
 import math
 for i in range(50):
@@ -36,7 +36,7 @@ for i in range(50):
 ```
 
 ## [3問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0652) （１０点）
-#### [解答例](https://raw.githubusercontent.com/7vvXi/my-portfolio/master/shin/1/1-3.py)
+#### [解答例](https://raw.githubusercontent.com/7vvXi/Comp-prog/master/shin/1/1-3.py)
 ```
 data = input().split()
 a = int(data[0])
@@ -57,7 +57,7 @@ print(count)
 ```
 
 ## [4問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0022&lang=jp) （１５点）
-#### [解答例](https://raw.githubusercontent.com/7vvXi/my-portfolio/master/shin/1/1-4.py)
+#### [解答例](https://raw.githubusercontent.com/7vvXi/Comp-prog/master/shin/1/1-4.py)
 ```
 while 1:
 	n = int(input())
@@ -77,7 +77,7 @@ while 1:
 ```
 
 ## [5問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0100&lang=jp) （１５点）
-#### [解答例](https://raw.githubusercontent.com/7vvXi/my-portfolio/master/shin/1/1-5.py)
+#### [解答例](https://raw.githubusercontent.com/7vvXi/Comp-prog/master/shin/1/1-5.py)
 ```
 while 1:
 	n = int(input())
@@ -104,7 +104,7 @@ while 1:
 ```
 
 ## [6問目](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0004&lang=jp) （２０点）
-#### [解答例](https://raw.githubusercontent.com/7vvXi/my-portfolio/master/shin/1/1-.py)
+#### [解答例](https://raw.githubusercontent.com/7vvXi/Comp-prog/master/shin/1/1-.py)
 ```
 while 1:
 	try:
@@ -122,4 +122,4 @@ while 1:
 ```
 
 
-[←back](https://7vvxi.github.io/my-portfolio/shin/1/)
+[←back](https://7vvxi.github.io/Comp-prog/shin/1/)
