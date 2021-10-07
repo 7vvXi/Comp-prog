@@ -28,6 +28,7 @@
 
 ※コンパイルしてから提出してください。一回WAするたびに-1点します。
 
-[解答例→](https://7vvxi.github.io/Comp-prog/shin/1/answer)
+[解答例→]()
+
 
 [←トップページ](https://7vvxi.github.io/Comp-prog/shin/)
